@@ -3,7 +3,7 @@ import { Github, Twitter, Linkedin, Globe, Cpu, BookOpen, Video, MessageSquare, 
 export const profile = {
   name: "Subhraneel Goswami",
   username: "subhraneel2005",
-  title: "AI Engineer",
+  title: "Fullstack/AI Engineer",
   bio: "engineer . building anonymous Q&A app . documenting 0 - 1",
   email: "subhraneeljobs@gmail.com",
   status: "Anonymous AMA App",
@@ -12,9 +12,9 @@ export const profile = {
 };
 
 export const stats = [
-  { label: "Bugs Created", value: "∞" },
-  { label: "npm install", value: "too many" }, ,
-  { label: "Works On My Machine", value: "100%" }
+  { label: "Projects", value: "6+" },
+  { label: "Commits (2026)", value: "347" },
+  { label: "Bugs", value: "∞" }
 ];
 
 export const socials = [
